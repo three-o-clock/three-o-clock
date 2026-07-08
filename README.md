@@ -10,6 +10,6 @@ This project really gave me a fresh perspective of what it's like to study in su
 
 I've been meaning to get my hands dirty with **Game Dev**, but I just haven't had the chance to. That's probably where I'm headed next.
 
-Oh! In my free time, I'm most probably sleeping, watching a AAA game playthrough or scrolling on Zomato (which sounds like tomato).
+Oh! In my free time, I'm most probably sleeping, watching a AAA game playthrough or scrolling on Zomato (which sounds like tomato). I also love to click pictures!
 
 Anyways, back to sleep. 
