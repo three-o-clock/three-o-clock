@@ -1,11 +1,8 @@
 ## Hi. I'm three. 
 
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZjdTNoMGtoY2t5ajdydHozMWJ6bms1cGZ0YWlkM3B4cjNqcjd0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif" alt="rain" style="margin-right: 25px;">
-&nbsp;&nbsp;&nbsp;&nbsp;My pronouns are tired/bored. I'm most probably sleeping or in a lecture. 
+My pronouns are tired/bored. I'm most probably sleeping or in a lecture. 
 
 I'm invested in **RAG** rn and it's been really fun learning about chunking strategies and embeddings, vector spaces, retrieval and all that. [This](https://www.youtube.com/live/Y9qn4XGH1TI) little talk is actually what got me hooked to RAG.
-<br clear="left"/>
-
 
 **Embedded systems and IoT** give me a kick too. There's something incredibly satisfying to be able to see code dictate in real life the working of actual hardware. It's like bringing the hardware to life. <br><br>
 I have worked on a prototype of a Smart Plant Watering System integrated with Random Forest Classification and Isolation Forest Anomaly Detection ML models. This used a Raspberry Pi 4 as the SOC (System-on-Chip) and an Arduino Uno R4 Wi-Fi as the microcontroller. The ML models were run on the Raspberry Pi while the Arduino handled the sensors and actuators. MQTT was used to establish connection between the Raspberry Pi and the Arduino Board.
