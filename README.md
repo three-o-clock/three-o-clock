@@ -1,5 +1,11 @@
 ## Hi. I'm three. 
 
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZjdTNoMGtoY2t5ajdydHozMWJ6bms1cGZ0YWlkM3B4cjNqcjd0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif" alt="Alt Text" margin-right:15px>
+
+This text starts on the right side of the image. Because the image is aligned to the left, any content you type here will wrap nicely around it until it clears the bottom of the image frame.
+<br clear="left"/>
+
+
 My pronouns are tired/bored. I'm most probably sleeping or in a lecture. 
 
 I'm invested in **RAG** rn and it's been really fun learning about chunking strategies and embeddings, vector spaces, retrieval and all that. [This](https://www.youtube.com/live/Y9qn4XGH1TI) little talk is actually what got me hooked to RAG.
