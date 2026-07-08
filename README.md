@@ -1,4 +1,4 @@
-##Hi. I'm three. 
+## Hi. I'm three. 
 My pronouns are tired/bored. I'm most probably sleeping or in a lecture. 
 
 I'm invested in RAG rn and it's been really fun learning about chunking strategies and embeddings, vector spaces, retrieval and all that. [This](https://www.youtube.com/live/Y9qn4XGH1TI) little talk is actually what got me hooked to RAG.  
