@@ -1,6 +1,6 @@
 ## Hi. I'm three. 
 
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZjdTNoMGtoY2t5ajdydHozMWJ6bms1cGZ0YWlkM3B4cjNqcjd0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif" alt="Alt Text" style="margin-right:15px">
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZjdTNoMGtoY2t5ajdydHozMWJ6bms1cGZ0YWlkM3B4cjNqcjd0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif" alt="Alt Text" style="margin-right:15px;">
 
 My pronouns are tired/bored. I'm most probably sleeping or in a lecture. 
 
