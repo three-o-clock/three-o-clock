@@ -3,7 +3,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3YxM2lxdzBqMmxydzhpMDZkMnphbXQxa254NDFhaGVsYWw5MHRsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLi3T5m3RH45y/giphy.gif">
 </p>
 
-My pronouns are tired/bored. I'm most probably sleeping or in a lecture. 
+My pronouns are tired/bored. I'm most probably sleeping or in a lecture. The time I'm not doing either of those, you can(not) find me. Jk. (not)
 
 I'm invested in **RAG** rn and it's been really fun learning about chunking strategies and embeddings, vector spaces, retrieval and all that. [This](https://www.youtube.com/live/Y9qn4XGH1TI) little talk is actually what got me hooked to RAG.
 
