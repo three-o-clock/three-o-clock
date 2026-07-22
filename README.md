@@ -4,7 +4,7 @@
   Currently avoiding drowning in Gurgaon
 </p>
 
-My pronouns are tired/bored. I'm most probably sleeping or in a lecture. The time I'm not doing either of those, you can(not) find me. Jk. (not)
+My pronouns are tired/bored. I'm most probably sleeping or in a lecture. The time I'm not doing either of those, you can(not) find me. Jk. Jk.
 
 I'm invested in **RAG** rn and it's been really fun learning about chunking strategies and embeddings, vector spaces, retrieval and all that. [This](https://www.youtube.com/live/Y9qn4XGH1TI) little talk is actually what got me hooked to RAG.
 
@@ -15,6 +15,6 @@ This project really gave me a fresh perspective of what it's like to study in su
 
 I've been meaning to get my hands dirty with **Game Dev**, but I just haven't had the chance to. That's probably where I'm headed next.
 
-Oh! In my free time, I'm most probably sleeping, watching a AAA game playthrough or scrolling on Zomato (which sounds like tomato).
+Oh! In my free time, I'm most probably (you guessed it) sleeping, watching a AAA game playthrough or scrolling on Zomato (guilty).
 
-Anyways, back to sleep. 
+If you've got something nerdy to talk about, count me in!
