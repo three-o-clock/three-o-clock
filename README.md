@@ -1,5 +1,6 @@
 ## Hi. I'm three. 
 <p align="center">
+
 My pronouns are tired/bored. I'm most probably sleeping or in a lecture. The time I'm not doing either of those, you can(not) find me. Jk. Jk.
 
 I'm invested in **RAG** rn and it's been really fun learning about chunking strategies and embeddings, vector spaces, retrieval and all that. [This](https://www.youtube.com/live/Y9qn4XGH1TI) little talk is actually what got me hooked to RAG.
